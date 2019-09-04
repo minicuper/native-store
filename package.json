@@ -1,0 +1,22 @@
+{
+  "name": "native-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zag2art/native-store.git"
+  },
+  "author": "Artur Zayats <zag2art@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zag2art/native-store/issues"
+  },
+  "homepage": "https://github.com/zag2art/native-store#readme",
+  "peerDependencies": {
+    "@react-native-community/async-storage": "*"
+  }
+}
